@@ -5,7 +5,7 @@
   "homepage": "http://bymattlee.com",
   "author": "Matt Lee <matt@bymattlee.com>",
   "engines": {
-    "node": "16.17.1"
+    "node": "18.20.3"
   },
   "scripts": {
     "start": "yarn dev",
